@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATV_Pratica_1/ATV_Pratica_1.iml" filepath="$PROJECT_DIR$/ATV_Pratica_1/ATV_Pratica_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atv_pratica/Array/Array.iml" filepath="$PROJECT_DIR$/atv_pratica/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array2.iml" filepath="$PROJECT_DIR$/Array/Array2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atv_pratica/atv_pratica.iml" filepath="$PROJECT_DIR$/atv_pratica/atv_pratica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tecnicas_programacao.iml" filepath="$PROJECT_DIR$/.idea/tecnicas_programacao.iml" />
+    </modules>
+  </component>
+</project>
